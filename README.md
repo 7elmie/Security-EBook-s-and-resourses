@@ -2,28 +2,25 @@ Hacking-Security-Ebooks
 Top 100 Hacking & Security E-Books (Free Download) - Powered by Yeahhub.com.
 
 #Download All
-
-S.No	E-Book (PDF Link)	Total Pages
-	  
-    Advanced Penetration Testing	269 Pages
-  	The Basics of Web Hacking	179 Pages
-  	The Basics of Hacking and Penetration Testing	178 Pages
-  	The Art of Deception by Kevin Mitnick	577 Pages
-	  SQL Injection Attacks and Defense	761 Pages
-  	Metasploit - The Penetration Tester's Guide	332 Pages
-	  Ethical Hacking and Penetration Testing Guide	523 Pages
-  	Network Attacks and Exploitation - A Framework	219 Pages
-  	Python Web Penetration Testing Cookbook	224 Pages
-  	Wireshark for Security Professionals	391 Pages
-  	Mastering Modern Web Penetration Testing	298 Pages
-  	The Shellcoder's Handbook	745 Pages
-  	The Little Black Book of Computer Viruses	183 Pages
-  	XSS Attacks - Cross Site Scripting Exploits and Defense	482 Pages
-	  The Web Application Hacker's Handbook	771 Pages
-	  Ethical Hacking and Countermeasures	239 Pages
-	  Reversing - Secrets of Reverse Engineering	619 Pages
-	  Network Security Bible	697 Pages
-	  Hacking Web Applications - Hacking Exposed	416 Pages
+    	Advanced Penetration Testing												269 Pages
+  	The Basics of Web Hacking												179 Pages
+  	The Basics of Hacking and Penetration Testing										178 Pages
+  	The Art of Deception by Kevin Mitnick											577 Pages
+	SQL Injection Attacks and Defense											761 Pages
+  	Metasploit - The Penetration Tester's Guide										332 Pages
+	Ethical Hacking and Penetration Testing Guide										523 Pages
+  	Network Attacks and Exploitation - A Framework										219 Pages
+  	Python Web Penetration Testing Cookbook											224 Pages
+  	Wireshark for Security Professionals											391 Pages
+  	Mastering Modern Web Penetration Testing										298 Pages
+  	The Shellcoder's Handbook												745 Pages
+  	The Little Black Book of Computer Viruses										183 Pages
+  	XSS Attacks - Cross Site Scripting Exploits and Defense									482 Pages
+	  The Web Application Hacker's Handbook											771 Pages
+	  Ethical Hacking and Countermeasures											239 Pages
+	  Reversing - Secrets of Reverse Engineering										619 Pages
+	  Network Security Bible												697 Pages
+	  Hacking Web Applications - Hacking Exposed										416 Pages
 	  Hacking for Dummies	387 Pages
 	  Hacking Wireless Network for Dummies	387 Pages
 	  Ninja Hacking - Unconventional Penetration Testing Tacting and Techniques	314 pages
